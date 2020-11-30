@@ -87,6 +87,7 @@ int main()
 
 	mergeSort(arr, L, R);
 
+	// 显示结果
 	for (int i = 0; i <= R; i++)
 		cout << arr[i] << " ";
 	cout << endl;
