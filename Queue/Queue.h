@@ -81,7 +81,5 @@ void Queue<T>::Pop()
 {
 	if(IsEmpty()) throw "Queue is empty. Cannot delete.";
 	front = (front+1) % capacity;
-	queue[front].~T();
 }
-
 #endif
