@@ -6,20 +6,6 @@ using namespace std;
 
 int main()
 {
-	cout << "test" << endl;
-
-	List<int> intList;
-
-	intList.Insert(5);
-	intList.Insert(15);
-	intList.Insert(25);
-	intList.Insert(35);
-	
-	intList.Show();
-	intList.Invert();
-	intList.Show();
-	intList.Delete(15);
-	intList.Show();
 
 	List<char> charList;
 	charList.Insert('a');
