@@ -3,6 +3,7 @@
 - [顺序栈](https://github.com/IPENCIL666/DSA/tree/master/Stack)
 - [顺序队列](https://github.com/IPENCIL666/DSA/tree/master/Queue)
 - [链表](https://github.com/IPENCIL666/DSA/tree/master/LinkList)
-- [链栈](https://github.com/IPENCIL666/DSA/tree/master/LinkStack)
+- [链式栈](https://github.com/IPENCIL666/DSA/tree/master/LinkStack)
+- [链式队列](https://github.com/IPENCIL666/DSA/tree/master/LinkQueue)
 
 
